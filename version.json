@@ -1,0 +1,10 @@
+{
+    "app_name": "EduPulse",
+    "latest_version": "1.0.1",
+    "minimum_supported_version": "1.0.0",
+    "release_date": "2026-06-12",
+    "download_url": "https://github.com/Bornventure/EduPulse-Releases/releases/download/v1.0.1/EduPulse_Setup_1.0.1.exe",
+    "sha256": "f2a9d81c3f6d5f0c7d8b6e5c9f1a7e4d3b2c1f9a8d7e6f5c4b3a2d1e0f9c8b7",
+    "mandatory": false,
+    "release_notes": "Improved attendance synchronization and SMS retry engine."
+}

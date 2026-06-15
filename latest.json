@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "changelog": "- Initial release\n- Attendance engine with ZKTeco K40 integration\n- SMS notifications via Africa's Talking\n- License activation and validation\n- Reports module with Excel and PDF export",
-    "download_url": "https://github.com/Bornventure/EduPulse-Releases/releases/download/v1.0.1/EduPulse_Setup_1.0.1.exe",
-    "file_size_mb": 65.1
+    "download_url": "https://github.com/Bornventure/EduPulse-Releases/releases/download/v1.0.2/EduPulse_Setup_1.0.2.exe",
+    "file_size_mb": 65.07
 }

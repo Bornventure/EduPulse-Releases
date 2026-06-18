@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "changelog": "- Initial release\n- Attendance engine with ZKTeco K40 integration\n- SMS notifications via Africa's Talking\n- License activation and validation\n- Reports module with Excel and PDF export",
-    "download_url": "https://github.com/Bornventure/EduPulse-Releases/releases/download/v1.0.2/EduPulse_Setup_1.0.2.exe",
-    "file_size_mb": 65.07
+    "version": "1.0.3",
+    "changelog": "- Reduced biometric database polling interval from 10s to 3s for near-instant SMS dispatch\n- Added Windows UAC fallback directory support for write-restricted environments\n- Fixed missing dates in reports using sent_at fallback timestamp\n- Fixed empty Sender ID fields to dynamically pull Africa's Talking config\n- Formatted message cost fields to 2 decimal places (KES 0.00)",
+    "download_url": "https://github.com/Bornventure/EduPulse-Releases/releases/download/v1.0.3/EduPulse_Setup_1.0.3.exe",
+    "file_size_mb": 65.1
 }
